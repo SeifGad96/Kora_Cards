@@ -1,0 +1,938 @@
+[
+  {
+    "id": "001", "name": "Cristiano Ronaldo", "photo_url": "players/ronaldo.webp",
+    "age": 40, "shirt_number": 7,
+    "team_en": "Al Nassr", "team_ar": "النصر",
+    "nationality_en": "Portuguese", "nationality_ar": "برتغالي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "002", "name": "Lionel Messi", "photo_url": "players/messi.webp",
+    "age": 38, "shirt_number": 10,
+    "team_en": "Inter Miami", "team_ar": "إنتر ميامي",
+    "nationality_en": "Argentine", "nationality_ar": "أرجنتيني",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "MLS", "league_ar": "الدوري الأمريكي"
+  },
+  {
+    "id": "003", "name": "Kylian Mbappe", "photo_url": "players/mbappe.webp",
+    "age": 26, "shirt_number": 9,
+    "team_en": "Real Madrid", "team_ar": "ريال مدريد",
+    "nationality_en": "French", "nationality_ar": "فرنسي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "004", "name": "Mohamed Salah", "photo_url": "players/salah.webp",
+    "age": 33, "shirt_number": 11,
+    "team_en": "Liverpool", "team_ar": "ليفربول",
+    "nationality_en": "Egyptian", "nationality_ar": "مصري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "005", "name": "Vinicius Junior", "photo_url": "players/vinicius.webp",
+    "age": 25, "shirt_number": 7,
+    "team_en": "Real Madrid", "team_ar": "ريال مدريد",
+    "nationality_en": "Brazilian", "nationality_ar": "برازيلي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "006", "name": "Erling Haaland", "photo_url": "players/haaland.webp",
+    "age": 25, "shirt_number": 9,
+    "team_en": "Manchester City", "team_ar": "مانشستر سيتي",
+    "nationality_en": "Norwegian", "nationality_ar": "نرويجي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "007", "name": "Jude Bellingham", "photo_url": "players/bellingham.webp",
+    "age": 22, "shirt_number": 5,
+    "team_en": "Real Madrid", "team_ar": "ريال مدريد",
+    "nationality_en": "English", "nationality_ar": "إنجليزي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "008", "name": "Lamine Yamal", "photo_url": "players/yamal.webp",
+    "age": 18, "shirt_number": 19,
+    "team_en": "Barcelona", "team_ar": "برشلونة",
+    "nationality_en": "Spanish", "nationality_ar": "إسباني",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "009", "name": "Pedri", "photo_url": "players/pedri.webp",
+    "age": 23, "shirt_number": 8,
+    "team_en": "Barcelona", "team_ar": "برشلونة",
+    "nationality_en": "Spanish", "nationality_ar": "إسباني",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "010", "name": "Rodri", "photo_url": "players/rodri.webp",
+    "age": 29, "shirt_number": 16,
+    "team_en": "Manchester City", "team_ar": "مانشستر سيتي",
+    "nationality_en": "Spanish", "nationality_ar": "إسباني",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "011", "name": "Kevin De Bruyne", "photo_url": "players/debruyne.webp",
+    "age": 34, "shirt_number": 17,
+    "team_en": "Manchester City", "team_ar": "مانشستر سيتي",
+    "nationality_en": "Belgian", "nationality_ar": "بلجيكي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "012", "name": "Harry Kane", "photo_url": "players/kane.webp",
+    "age": 32, "shirt_number": 9,
+    "team_en": "Bayern Munich", "team_ar": "بايرن ميونخ",
+    "nationality_en": "English", "nationality_ar": "إنجليزي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Bundesliga", "league_ar": "الدوري الألماني"
+  },
+  {
+    "id": "013", "name": "Toni Kroos", "photo_url": "players/kroos.webp",
+    "age": 35, "shirt_number": 8,
+    "team_en": "Real Madrid", "team_ar": "ريال مدريد",
+    "nationality_en": "German", "nationality_ar": "ألماني",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "014", "name": "Neymar Jr", "photo_url": "players/neymar.webp",
+    "age": 33, "shirt_number": 10,
+    "team_en": "Al Hilal", "team_ar": "الهلال",
+    "nationality_en": "Brazilian", "nationality_ar": "برازيلي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "015", "name": "Karim Benzema", "photo_url": "players/benzema.webp",
+    "age": 37, "shirt_number": 9,
+    "team_en": "Al Ittihad", "team_ar": "الاتحاد",
+    "nationality_en": "French", "nationality_ar": "فرنسي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "016", "name": "Sadio Mane", "photo_url": "players/mane.webp",
+    "age": 33, "shirt_number": 10,
+    "team_en": "Al Nassr", "team_ar": "النصر",
+    "nationality_en": "Senegalese", "nationality_ar": "سنغالي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "017", "name": "N'Golo Kante", "photo_url": "players/kante.webp",
+    "age": 34, "shirt_number": 7,
+    "team_en": "Al Ittihad", "team_ar": "الاتحاد",
+    "nationality_en": "French", "nationality_ar": "فرنسي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "018", "name": "Roberto Firmino", "photo_url": "players/firmino.webp",
+    "age": 34, "shirt_number": 9,
+    "team_en": "Al Ahli", "team_ar": "الأهلي",
+    "nationality_en": "Brazilian", "nationality_ar": "برازيلي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "019", "name": "Riyad Mahrez", "photo_url": "players/mahrez.webp",
+    "age": 34, "shirt_number": 7,
+    "team_en": "Al Ahli", "team_ar": "الأهلي",
+    "nationality_en": "Algerian", "nationality_ar": "جزائري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "020", "name": "Aleksandar Mitrovic", "photo_url": "players/mitrovic.webp",
+    "age": 31, "shirt_number": 9,
+    "team_en": "Al Hilal", "team_ar": "الهلال",
+    "nationality_en": "Serbian", "nationality_ar": "صربي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "021", "name": "Ruben Neves", "photo_url": "players/neves.webp",
+    "age": 28, "shirt_number": 8,
+    "team_en": "Al Hilal", "team_ar": "الهلال",
+    "nationality_en": "Portuguese", "nationality_ar": "برتغالي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "022", "name": "Jordan Henderson", "photo_url": "players/henderson.webp",
+    "age": 35, "shirt_number": 6,
+    "team_en": "Ajax", "team_ar": "أياكس",
+    "nationality_en": "English", "nationality_ar": "إنجليزي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Eredivisie", "league_ar": "الدوري الهولندي"
+  },
+  {
+    "id": "023", "name": "Marc-Andre ter Stegen", "photo_url": "players/terstegen.webp",
+    "age": 33, "shirt_number": 1,
+    "team_en": "Barcelona", "team_ar": "برشلونة",
+    "nationality_en": "German", "nationality_ar": "ألماني",
+    "position_en": "GK", "position_ar": "حارس",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "024", "name": "Alisson Becker", "photo_url": "players/alisson.webp",
+    "age": 33, "shirt_number": 1,
+    "team_en": "Liverpool", "team_ar": "ليفربول",
+    "nationality_en": "Brazilian", "nationality_ar": "برازيلي",
+    "position_en": "GK", "position_ar": "حارس",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "025", "name": "Thibaut Courtois", "photo_url": "players/courtois.webp",
+    "age": 33, "shirt_number": 1,
+    "team_en": "Real Madrid", "team_ar": "ريال مدريد",
+    "nationality_en": "Belgian", "nationality_ar": "بلجيكي",
+    "position_en": "GK", "position_ar": "حارس",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "026", "name": "Virgil van Dijk", "photo_url": "players/vandijk.webp",
+    "age": 34, "shirt_number": 4,
+    "team_en": "Liverpool", "team_ar": "ليفربول",
+    "nationality_en": "Dutch", "nationality_ar": "هولندي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "027", "name": "Ruben Dias", "photo_url": "players/dias.webp",
+    "age": 28, "shirt_number": 3,
+    "team_en": "Manchester City", "team_ar": "مانشستر سيتي",
+    "nationality_en": "Portuguese", "nationality_ar": "برتغالي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "028", "name": "Luka Modric", "photo_url": "players/modric.webp",
+    "age": 40, "shirt_number": 10,
+    "team_en": "Real Madrid", "team_ar": "ريال مدريد",
+    "nationality_en": "Croatian", "nationality_ar": "كرواتي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Both", "preferred_foot_ar": "كلاهما",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "029", "name": "Antoine Griezmann", "photo_url": "players/griezmann.webp",
+    "age": 34, "shirt_number": 7,
+    "team_en": "Atletico Madrid", "team_ar": "أتلتيكو مدريد",
+    "nationality_en": "French", "nationality_ar": "فرنسي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "030", "name": "Bruno Fernandes", "photo_url": "players/brunofernandes.webp",
+    "age": 30, "shirt_number": 8,
+    "team_en": "Manchester United", "team_ar": "مانشستر يونايتد",
+    "nationality_en": "Portuguese", "nationality_ar": "برتغالي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "031", "name": "Marcus Rashford", "photo_url": "players/rashford.webp",
+    "age": 28, "shirt_number": 10,
+    "team_en": "Aston Villa", "team_ar": "أستون فيلا",
+    "nationality_en": "English", "nationality_ar": "إنجليزي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "032", "name": "Bukayo Saka", "photo_url": "players/saka.webp",
+    "age": 24, "shirt_number": 7,
+    "team_en": "Arsenal", "team_ar": "أرسنال",
+    "nationality_en": "English", "nationality_ar": "إنجليزي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "033", "name": "Phil Foden", "photo_url": "players/foden.webp",
+    "age": 25, "shirt_number": 47,
+    "team_en": "Manchester City", "team_ar": "مانشستر سيتي",
+    "nationality_en": "English", "nationality_ar": "إنجليزي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "034", "name": "Declan Rice", "photo_url": "players/rice.webp",
+    "age": 27, "shirt_number": 41,
+    "team_en": "Arsenal", "team_ar": "أرسنال",
+    "nationality_en": "English", "nationality_ar": "إنجليزي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "035", "name": "Gavi", "photo_url": "players/gavi.webp",
+    "age": 21, "shirt_number": 6,
+    "team_en": "Barcelona", "team_ar": "برشلونة",
+    "nationality_en": "Spanish", "nationality_ar": "إسباني",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "036", "name": "Federico Valverde", "photo_url": "players/valverde.webp",
+    "age": 27, "shirt_number": 15,
+    "team_en": "Real Madrid", "team_ar": "ريال مدريد",
+    "nationality_en": "Uruguayan", "nationality_ar": "أوروغوياني",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "037", "name": "Robert Lewandowski", "photo_url": "players/lewandowski.webp",
+    "age": 37, "shirt_number": 9,
+    "team_en": "Barcelona", "team_ar": "برشلونة",
+    "nationality_en": "Polish", "nationality_ar": "بولندي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "038", "name": "Ousmane Dembele", "photo_url": "players/dembele.webp",
+    "age": 28, "shirt_number": 10,
+    "team_en": "PSG", "team_ar": "باريس سان جيرمان",
+    "nationality_en": "French", "nationality_ar": "فرنسي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Both", "preferred_foot_ar": "كلاهما",
+    "league_en": "Ligue 1", "league_ar": "الدوري الفرنسي"
+  },
+  {
+    "id": "039", "name": "Achraf Hakimi", "photo_url": "players/hakimi.webp",
+    "age": 27, "shirt_number": 2,
+    "team_en": "PSG", "team_ar": "باريس سان جيرمان",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Ligue 1", "league_ar": "الدوري الفرنسي"
+  },
+  {
+    "id": "040", "name": "Marquinhos", "photo_url": "players/marquinhos.webp",
+    "age": 31, "shirt_number": 5,
+    "team_en": "PSG", "team_ar": "باريس سان جيرمان",
+    "nationality_en": "Brazilian", "nationality_ar": "برازيلي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Ligue 1", "league_ar": "الدوري الفرنسي"
+  },
+  {
+    "id": "041", "name": "Dusan Vlahovic", "photo_url": "players/vlahovic.webp",
+    "age": 26, "shirt_number": 9,
+    "team_en": "Juventus", "team_ar": "يوفنتوس",
+    "nationality_en": "Serbian", "nationality_ar": "صربي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Serie A", "league_ar": "الدوري الإيطالي"
+  },
+  {
+    "id": "042", "name": "Rafael Leao", "photo_url": "players/leao.webp",
+    "age": 26, "shirt_number": 10,
+    "team_en": "AC Milan", "team_ar": "ميلان",
+    "nationality_en": "Portuguese", "nationality_ar": "برتغالي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Serie A", "league_ar": "الدوري الإيطالي"
+  },
+  {
+    "id": "043", "name": "Victor Osimhen", "photo_url": "players/osimhen.webp",
+    "age": 27, "shirt_number": 9,
+    "team_en": "Galatasaray", "team_ar": "غلطة سراي",
+    "nationality_en": "Nigerian", "nationality_ar": "نيجيري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Super Lig", "league_ar": "الدوري التركي"
+  },
+  {
+    "id": "044", "name": "Khvicha Kvaratskhelia", "photo_url": "players/kvara.webp",
+    "age": 24, "shirt_number": 77,
+    "team_en": "PSG", "team_ar": "باريس سان جيرمان",
+    "nationality_en": "Georgian", "nationality_ar": "جورجي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Ligue 1", "league_ar": "الدوري الفرنسي"
+  },
+  {
+    "id": "045", "name": "Jamal Musiala", "photo_url": "players/musiala.webp",
+    "age": 23, "shirt_number": 42,
+    "team_en": "Bayern Munich", "team_ar": "بايرن ميونخ",
+    "nationality_en": "German", "nationality_ar": "ألماني",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Bundesliga", "league_ar": "الدوري الألماني"
+  },
+  {
+    "id": "046", "name": "Florian Wirtz", "photo_url": "players/wirtz.webp",
+    "age": 22, "shirt_number": 10,
+    "team_en": "Real Madrid", "team_ar": "ريال مدريد",
+    "nationality_en": "German", "nationality_ar": "ألماني",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "047", "name": "Ollie Watkins", "photo_url": "players/watkins.webp",
+    "age": 30, "shirt_number": 11,
+    "team_en": "Aston Villa", "team_ar": "أستون فيلا",
+    "nationality_en": "English", "nationality_ar": "إنجليزي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "048", "name": "Son Heung-min", "photo_url": "players/son.webp",
+    "age": 33, "shirt_number": 7,
+    "team_en": "Tottenham", "team_ar": "توتنهام",
+    "nationality_en": "South Korean", "nationality_ar": "كوري جنوبي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "049", "name": "Julian Alvarez", "photo_url": "players/alvarez.webp",
+    "age": 25, "shirt_number": 19,
+    "team_en": "Atletico Madrid", "team_ar": "أتلتيكو مدريد",
+    "nationality_en": "Argentine", "nationality_ar": "أرجنتيني",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "050", "name": "Cody Gakpo", "photo_url": "players/gakpo.webp",
+    "age": 26, "shirt_number": 18,
+    "team_en": "Liverpool", "team_ar": "ليفربول",
+    "nationality_en": "Dutch", "nationality_ar": "هولندي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "051", "name": "Saleh Al Shehri", "photo_url": "players/alshehri.webp",
+    "age": 32, "shirt_number": 7,
+    "team_en": "Al Hilal", "team_ar": "الهلال",
+    "nationality_en": "Saudi", "nationality_ar": "سعودي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "052", "name": "Salem Al Dawsari", "photo_url": "players/aldawsari.webp",
+    "age": 34, "shirt_number": 11,
+    "team_en": "Al Hilal", "team_ar": "الهلال",
+    "nationality_en": "Saudi", "nationality_ar": "سعودي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "053", "name": "Mohammed Al Owais", "photo_url": "players/alowais.webp",
+    "age": 33, "shirt_number": 21,
+    "team_en": "Al Ahli", "team_ar": "الأهلي",
+    "nationality_en": "Saudi", "nationality_ar": "سعودي",
+    "position_en": "GK", "position_ar": "حارس",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "054", "name": "Ali Al Bulaihi", "photo_url": "players/albulaihi.webp",
+    "age": 35, "shirt_number": 4,
+    "team_en": "Al Hilal", "team_ar": "الهلال",
+    "nationality_en": "Saudi", "nationality_ar": "سعودي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "055", "name": "Sami Al Najei", "photo_url": "players/alnajei.webp",
+    "age": 28, "shirt_number": 14,
+    "team_en": "Al Nassr", "team_ar": "النصر",
+    "nationality_en": "Saudi", "nationality_ar": "سعودي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "056", "name": "Hattan Bahebri", "photo_url": "players/bahebri.webp",
+    "age": 30, "shirt_number": 10,
+    "team_en": "Al Shabab", "team_ar": "الشباب",
+    "nationality_en": "Saudi", "nationality_ar": "سعودي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "057", "name": "Omar Abdulrahman", "photo_url": "players/omarabdul.webp",
+    "age": 34, "shirt_number": 10,
+    "team_en": "Al Ain", "team_ar": "العين",
+    "nationality_en": "Emirati", "nationality_ar": "إماراتي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "UAE Pro League", "league_ar": "دوري الخليج العربي"
+  },
+  {
+    "id": "058", "name": "Ali Mabkhout", "photo_url": "players/mabkhout.webp",
+    "age": 36, "shirt_number": 7,
+    "team_en": "Al Jazira", "team_ar": "الجزيرة",
+    "nationality_en": "Emirati", "nationality_ar": "إماراتي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "UAE Pro League", "league_ar": "دوري الخليج العربي"
+  },
+  {
+    "id": "059", "name": "Tarek Hamed", "photo_url": "players/tarekhamed.webp",
+    "age": 36, "shirt_number": 6,
+    "team_en": "Zamalek", "team_ar": "الزمالك",
+    "nationality_en": "Egyptian", "nationality_ar": "مصري",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Egyptian Premier League", "league_ar": "الدوري المصري الممتاز"
+  },
+  {
+    "id": "060", "name": "Ahmed El Shenawy", "photo_url": "players/elshenawy.webp",
+    "age": 36, "shirt_number": 1,
+    "team_en": "Al Ahly", "team_ar": "الأهلي",
+    "nationality_en": "Egyptian", "nationality_ar": "مصري",
+    "position_en": "GK", "position_ar": "حارس",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Egyptian Premier League", "league_ar": "الدوري المصري الممتاز"
+  },
+  {
+    "id": "061", "name": "Mostafa Mohamed", "photo_url": "players/mostafamohamed.webp",
+    "age": 27, "shirt_number": 9,
+    "team_en": "Nantes", "team_ar": "نانت",
+    "nationality_en": "Egyptian", "nationality_ar": "مصري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Ligue 1", "league_ar": "الدوري الفرنسي"
+  },
+  {
+    "id": "062", "name": "Omar Marmoush", "photo_url": "players/marmoush.webp",
+    "age": 26, "shirt_number": 9,
+    "team_en": "Manchester City", "team_ar": "مانشستر سيتي",
+    "nationality_en": "Egyptian", "nationality_ar": "مصري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "063", "name": "Hakim Ziyech", "photo_url": "players/ziyech.webp",
+    "age": 33, "shirt_number": 22,
+    "team_en": "Galatasaray", "team_ar": "غلطة سراي",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Super Lig", "league_ar": "الدوري التركي"
+  },
+  {
+    "id": "064", "name": "Youssef En-Nesyri", "photo_url": "players/ennesyri.webp",
+    "age": 28, "shirt_number": 9,
+    "team_en": "Fenerbahce", "team_ar": "فنربخشة",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Super Lig", "league_ar": "الدوري التركي"
+  },
+  {
+    "id": "065", "name": "Sofiane Boufal", "photo_url": "players/boufal.webp",
+    "age": 31, "shirt_number": 7,
+    "team_en": "Angers", "team_ar": "أنجيه",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Ligue 2", "league_ar": "الدوري الفرنسي الثاني"
+  },
+  {
+    "id": "066", "name": "Azzedine Ounahi", "photo_url": "players/ounahi.webp",
+    "age": 25, "shirt_number": 8,
+    "team_en": "Marseille", "team_ar": "مارسيليا",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Ligue 1", "league_ar": "الدوري الفرنسي"
+  },
+  {
+    "id": "067", "name": "Ismail Bennacer", "photo_url": "players/bennacer.webp",
+    "age": 28, "shirt_number": 4,
+    "team_en": "AC Milan", "team_ar": "ميلان",
+    "nationality_en": "Algerian", "nationality_ar": "جزائري",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Serie A", "league_ar": "الدوري الإيطالي"
+  },
+  {
+    "id": "068", "name": "Yacine Brahimi", "photo_url": "players/brahimi.webp",
+    "age": 35, "shirt_number": 11,
+    "team_en": "Al Rayyan", "team_ar": "الريان",
+    "nationality_en": "Algerian", "nationality_ar": "جزائري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Qatar Stars League", "league_ar": "دوري نجوم قطر"
+  },
+  {
+    "id": "069", "name": "Baghdad Bounedjah", "photo_url": "players/bounedjah.webp",
+    "age": 33, "shirt_number": 9,
+    "team_en": "Al Sadd", "team_ar": "السد",
+    "nationality_en": "Algerian", "nationality_ar": "جزائري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Qatar Stars League", "league_ar": "دوري نجوم قطر"
+  },
+  {
+    "id": "070", "name": "Xavi Simons", "photo_url": "players/xavisimons.webp",
+    "age": 23, "shirt_number": 20,
+    "team_en": "PSG", "team_ar": "باريس سان جيرمان",
+    "nationality_en": "Dutch", "nationality_ar": "هولندي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Ligue 1", "league_ar": "الدوري الفرنسي"
+  },
+  {
+    "id": "071", "name": "Theo Hernandez", "photo_url": "players/theohernandez.webp",
+    "age": 28, "shirt_number": 19,
+    "team_en": "AC Milan", "team_ar": "ميلان",
+    "nationality_en": "French", "nationality_ar": "فرنسي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Serie A", "league_ar": "الدوري الإيطالي"
+  },
+  {
+    "id": "072", "name": "Trent Alexander-Arnold", "photo_url": "players/taa.webp",
+    "age": 27, "shirt_number": 66,
+    "team_en": "Real Madrid", "team_ar": "ريال مدريد",
+    "nationality_en": "English", "nationality_ar": "إنجليزي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "073", "name": "Joao Felix", "photo_url": "players/joaofelix.webp",
+    "age": 26, "shirt_number": 11,
+    "team_en": "AC Milan", "team_ar": "ميلان",
+    "nationality_en": "Portuguese", "nationality_ar": "برتغالي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Serie A", "league_ar": "الدوري الإيطالي"
+  },
+  {
+    "id": "074", "name": "Nicolo Barella", "photo_url": "players/barella.webp",
+    "age": 28, "shirt_number": 23,
+    "team_en": "Inter Milan", "team_ar": "إنتر ميلان",
+    "nationality_en": "Italian", "nationality_ar": "إيطالي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Serie A", "league_ar": "الدوري الإيطالي"
+  },
+  {
+    "id": "075", "name": "Bernardo Silva", "photo_url": "players/bernardosilva.webp",
+    "age": 31, "shirt_number": 20,
+    "team_en": "Manchester City", "team_ar": "مانشستر سيتي",
+    "nationality_en": "Portuguese", "nationality_ar": "برتغالي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "076", "name": "Tammy Abraham", "photo_url": "players/abraham.webp",
+    "age": 28, "shirt_number": 9,
+    "team_en": "AC Milan", "team_ar": "ميلان",
+    "nationality_en": "English", "nationality_ar": "إنجليزي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Serie A", "league_ar": "الدوري الإيطالي"
+  },
+  {
+    "id": "077", "name": "Granit Xhaka", "photo_url": "players/xhaka.webp",
+    "age": 33, "shirt_number": 34,
+    "team_en": "Bayer Leverkusen", "team_ar": "باير ليفركوزن",
+    "nationality_en": "Swiss", "nationality_ar": "سويسري",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Bundesliga", "league_ar": "الدوري الألماني"
+  },
+  {
+    "id": "078", "name": "Ademola Lookman", "photo_url": "players/lookman.webp",
+    "age": 28, "shirt_number": 11,
+    "team_en": "Atalanta", "team_ar": "أتالانتا",
+    "nationality_en": "Nigerian", "nationality_ar": "نيجيري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Serie A", "league_ar": "الدوري الإيطالي"
+  },
+  {
+    "id": "079", "name": "Brahim Diaz", "photo_url": "players/brahimdiaz.webp",
+    "age": 26, "shirt_number": 10,
+    "team_en": "Real Madrid", "team_ar": "ريال مدريد",
+    "nationality_en": "Spanish", "nationality_ar": "إسباني",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "La Liga", "league_ar": "الدوري الإسباني"
+  },
+  {
+    "id": "080", "name": "Lorenzo Pellegrini", "photo_url": "players/pellegrini.webp",
+    "age": 29, "shirt_number": 7,
+    "team_en": "Roma", "team_ar": "روما",
+    "nationality_en": "Italian", "nationality_ar": "إيطالي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Serie A", "league_ar": "الدوري الإيطالي"
+  },
+  {
+    "id": "081", "name": "Karim El Ahmadi", "photo_url": "players/elahmadi.webp",
+    "age": 41, "shirt_number": 8,
+    "team_en": "Raja Casablanca", "team_ar": "الرجاء الرياضي",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Botola Pro", "league_ar": "الدوري المغربي"
+  },
+  {
+    "id": "082", "name": "Ayoub El Kaabi", "photo_url": "players/elkaabi.webp",
+    "age": 29, "shirt_number": 9,
+    "team_en": "Olympiakos", "team_ar": "أولمبياكوس",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Super League Greece", "league_ar": "الدوري اليوناني"
+  },
+  {
+    "id": "083", "name": "Yasser Ibrahim", "photo_url": "players/yasseribrahim.webp",
+    "age": 27, "shirt_number": 3,
+    "team_en": "Al Hilal", "team_ar": "الهلال",
+    "nationality_en": "Saudi", "nationality_ar": "سعودي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "084", "name": "Nawaf Al Abed", "photo_url": "players/alabed.webp",
+    "age": 34, "shirt_number": 16,
+    "team_en": "Al Hilal", "team_ar": "الهلال",
+    "nationality_en": "Saudi", "nationality_ar": "سعودي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "085", "name": "Abderrazak Hamdallah", "photo_url": "players/hamdallah.webp",
+    "age": 35, "shirt_number": 9,
+    "team_en": "Al Ittihad", "team_ar": "الاتحاد",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "086", "name": "Trézéguet", "photo_url": "players/trezeguet.webp",
+    "age": 34, "shirt_number": 11,
+    "team_en": "Trabzonspor", "team_ar": "طرابزون سبور",
+    "nationality_en": "Egyptian", "nationality_ar": "مصري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Super Lig", "league_ar": "الدوري التركي"
+  },
+  {
+    "id": "087", "name": "Ahmed Hegazy", "photo_url": "players/hegazy.webp",
+    "age": 35, "shirt_number": 5,
+    "team_en": "Ittihad Alexandria", "team_ar": "اتحاد الإسكندرية",
+    "nationality_en": "Egyptian", "nationality_ar": "مصري",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Egyptian Premier League", "league_ar": "الدوري المصري الممتاز"
+  },
+  {
+    "id": "088", "name": "Amr Warda", "photo_url": "players/amrwarda.webp",
+    "age": 31, "shirt_number": 11,
+    "team_en": "PAOK", "team_ar": "باوك",
+    "nationality_en": "Egyptian", "nationality_ar": "مصري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Super League Greece", "league_ar": "الدوري اليوناني"
+  },
+  {
+    "id": "089", "name": "Walid Soliman", "photo_url": "players/walidsoliman.webp",
+    "age": 35, "shirt_number": 10,
+    "team_en": "Al Ahly", "team_ar": "الأهلي",
+    "nationality_en": "Egyptian", "nationality_ar": "مصري",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Egyptian Premier League", "league_ar": "الدوري المصري الممتاز"
+  },
+  {
+    "id": "090", "name": "Pedro Miguel", "photo_url": "players/pedromiguel.webp",
+    "age": 33, "shirt_number": 3,
+    "team_en": "Al Ain", "team_ar": "العين",
+    "nationality_en": "Portuguese", "nationality_ar": "برتغالي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "UAE Pro League", "league_ar": "دوري الخليج العربي"
+  },
+  {
+    "id": "091", "name": "Caio Canedo", "photo_url": "players/canedo.webp",
+    "age": 28, "shirt_number": 11,
+    "team_en": "Al Sadd", "team_ar": "السد",
+    "nationality_en": "Brazilian", "nationality_ar": "برازيلي",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Qatar Stars League", "league_ar": "دوري نجوم قطر"
+  },
+  {
+    "id": "092", "name": "Almoez Ali", "photo_url": "players/almoezali.webp",
+    "age": 28, "shirt_number": 19,
+    "team_en": "Al Duhail", "team_ar": "الدحيل",
+    "nationality_en": "Qatari", "nationality_ar": "قطري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Qatar Stars League", "league_ar": "دوري نجوم قطر"
+  },
+  {
+    "id": "093", "name": "Akram Afif", "photo_url": "players/akramafif.webp",
+    "age": 28, "shirt_number": 11,
+    "team_en": "Al Sadd", "team_ar": "السد",
+    "nationality_en": "Qatari", "nationality_ar": "قطري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "Qatar Stars League", "league_ar": "دوري نجوم قطر"
+  },
+  {
+    "id": "094", "name": "Hassan Al Haydos", "photo_url": "players/alhaydos.webp",
+    "age": 34, "shirt_number": 10,
+    "team_en": "Al Sadd", "team_ar": "السد",
+    "nationality_en": "Qatari", "nationality_ar": "قطري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Qatar Stars League", "league_ar": "دوري نجوم قطر"
+  },
+  {
+    "id": "095", "name": "Yousuf Abdurisag", "photo_url": "players/abdurisag.webp",
+    "age": 26, "shirt_number": 9,
+    "team_en": "Al Hilal", "team_ar": "الهلال",
+    "nationality_en": "Qatari", "nationality_ar": "قطري",
+    "position_en": "FWD", "position_ar": "مهاجم",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "096", "name": "Nayef Aguerd", "photo_url": "players/aguerd.webp",
+    "age": 29, "shirt_number": 6,
+    "team_en": "West Ham", "team_ar": "وست هام",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier League", "league_ar": "الدوري الإنجليزي"
+  },
+  {
+    "id": "097", "name": "Sofyan Amrabat", "photo_url": "players/amrabat.webp",
+    "age": 29, "shirt_number": 4,
+    "team_en": "Fenerbahce", "team_ar": "فنربخشة",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Super Lig", "league_ar": "الدوري التركي"
+  },
+  {
+    "id": "098", "name": "Yassine Bounou", "photo_url": "players/bounou.webp",
+    "age": 34, "shirt_number": 1,
+    "team_en": "Al Hilal", "team_ar": "الهلال",
+    "nationality_en": "Moroccan", "nationality_ar": "مغربي",
+    "position_en": "GK", "position_ar": "حارس",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Saudi Pro League", "league_ar": "دوري روشن للمحترفين"
+  },
+  {
+    "id": "099", "name": "Sabri Lamouchi", "photo_url": "players/lamouchi.webp",
+    "age": 33, "shirt_number": 7,
+    "team_en": "Espérance Tunis", "team_ar": "الترجي التونسي",
+    "nationality_en": "Tunisian", "nationality_ar": "تونسي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Ligue Professionnelle 1", "league_ar": "الرابطة التونسية المحترفة"
+  },
+  {
+    "id": "100", "name": "Yosef Al Arabi", "photo_url": "players/alarabi.webp",
+    "age": 29, "shirt_number": 10,
+    "team_en": "Kuwait SC", "team_ar": "الكويت",
+    "nationality_en": "Kuwaiti", "nationality_ar": "كويتي",
+    "position_en": "MID", "position_ar": "وسط",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Kuwait Premier League", "league_ar": "دوري فيفا الكويتي للمحترفين"
+  },
+  {
+    "id": "101", "name": "Antony", "photo_url": "players/antony.webp",
+    "age": 26, "shirt_number": 7,
+    "team_en": "Real Betis", "team_ar": "ريال بتيس",
+    "nationality_en": "Brazil", "nationality_ar": "برازيلي",
+    "position_en": "WING RIGHT", "position_ar": "جناح أيمن",
+    "preferred_foot_en": "Left", "preferred_foot_ar": "يسار",
+    "league_en": "La leage", "league_ar": "دوري أسباني"
+  },
+  {
+    "id": "102", "name": "Gabriel Magales", "photo_url": "players/gabriel.webp",
+    "age": 28, "shirt_number": 6,
+    "team_en": "Arsenal", "team_ar": "أرسنال",
+    "nationality_en": "Brazil", "nationality_ar": "برازيلي",
+    "position_en": "DEF", "position_ar": "مدافع",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier Leage", "league_ar": "دوري انجليزي"
+  },
+  {
+    "id": "103", "name": "David Raya", "photo_url": "players/david_raya.webp",
+    "age": 30, "shirt_number": 1,
+    "team_en": "Arsenal", "team_ar": "أرسنال",
+    "nationality_en": "Spain", "nationality_ar": "أسباني",
+    "position_en": "GK", "position_ar": "حارس مرمى",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier Leage", "league_ar": "دوري انجليزي"
+  },
+  {
+    "id": "104", "name": "Maduiky", "photo_url": "players/Maduiky.webp",
+    "age": 24, "shirt_number": 20,
+    "team_en": "Arsenal", "team_ar": "أرسنال",
+    "nationality_en": "England", "nationality_ar": "انجلترا",
+    "position_en": "Right Wing", "position_ar": "جناح أيمن",
+    "preferred_foot_en": "Right", "preferred_foot_ar": "يمين",
+    "league_en": "Premier Leage", "league_ar": "دوري انجليزي"
+  }
+]
